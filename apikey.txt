@@ -1,0 +1,8 @@
+// Here is your key: 73c2f3d1
+
+// Please append it to all of your API requests,
+
+// OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=73c2f3d1
+
+// Click the following URL to activate your key: http://www.omdbapi.com/apikey.aspx?VERIFYKEY=0bc26aa3-7312-4e30-a179-1cee90ea6866
+// If you did not make this request, please disregard this email.
